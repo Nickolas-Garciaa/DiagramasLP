@@ -1,20 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T13:31:03.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="55mokcpx8iJPow9KXyRC" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T13:56:08.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="b7twMsYo3VDPzep_C6i3" version="21.7.0" type="github">
   <diagram name="Página-1" id="Nkgpa2HyM1c4vvCeyDwx">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-1" target="Gdjx7OXCP4QOKajzCwrP-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="340" />
+              <mxPoint x="230" y="55" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-1" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-2" target="Gdjx7OXCP4QOKajzCwrP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-2" value="PC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="910" y="300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -24,12 +29,39 @@
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="480" as="sourcePoint" />
-            <mxPoint x="640" y="160" as="targetPoint" />
+            <mxPoint x="840" y="480" as="sourcePoint" />
+            <mxPoint x="840" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-9" value="Iniciar jogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="140" height="70" as="geometry" />
+          <mxGeometry x="410" y="20" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-14" value="mover&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-16" value="gerar inimigos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-17" value="encotrrar sua ex" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-18" value="proxima fase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="414" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-19" value="queda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-20" value="ataque inimigo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-21" value="morte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-22" value="econtrar o skate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-23" value="mover&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
