@@ -5,6 +5,10 @@ Diagramas de LP: Classe, Casos de Uso e Atividades <br>
 
 ![lpusos](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/fedfa2b5-d789-4819-b799-d201d7b1aebc)
 <br>
+<h1>Documentação</h1><br>
+
+![documentaçao](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/47efffd2-d5c6-4381-8398-cff83d2b365d)
+
 <h1>Diagrama de Classe: <br>
 
 ![lpclasse](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/433a9c90-7781-4695-967a-a9a978bf52e1)
