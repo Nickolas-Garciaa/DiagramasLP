@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T02:22:22.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kMOfukhk6iTFswMBjZ67" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T14:24:40.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VMFGIyW65djU1G2b_IQI" version="21.7.0" type="github">
   <diagram name="Página-1" id="Nkgpa2HyM1c4vvCeyDwx">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-22" value="econtrar o skate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gdjx7OXCP4QOKajzCwrP-23" value="mover&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gdjx7OXCP4QOKajzCwrP-23" value="final do jogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="630" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-30" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.645;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.236;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-21" target="Gdjx7OXCP4QOKajzCwrP-23">
