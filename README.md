@@ -1,6 +1,6 @@
 # DiagramasLP
 
-Diagramas de LP: Classe, Casos de Uso e Atividades Dos jogos das musicas: Glimpse of us e Só por uma noite<br>
+Diagramas de LP: Classe, Casos de Uso e Atividades Do jogo das musicas: Glimpse of us e Só por uma noite<br>
 
 <H1>Diagrama de Casos De Usos:<br>
 
