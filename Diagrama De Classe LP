@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T16:42:05.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Hk5ke4d9VHppo_Ow4lYu" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T16:51:36.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sCy4fYqO-t35N8XWWtSq" version="21.7.0" type="github">
   <diagram name="Página-1" id="KtqgIbgALSmhUYjgUbIK">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="IU9mpnTN3lAD3kQABIef-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="IU9mpnTN3lAD3kQABIef-9">
           <mxGeometry y="150" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IU9mpnTN3lAD3kQABIef-12" value="+Gerar() void&lt;br&gt;+Dar dano()void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IU9mpnTN3lAD3kQABIef-9">
+        <mxCell id="IU9mpnTN3lAD3kQABIef-12" value="+Gerar() void&lt;br&gt;+Dardano()void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IU9mpnTN3lAD3kQABIef-9">
           <mxGeometry y="160" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IU9mpnTN3lAD3kQABIef-13" value="Skate" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
