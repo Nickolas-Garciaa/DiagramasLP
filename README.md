@@ -1,6 +1,7 @@
 # DiagramasLP
-
+Feito por: Nickolas Garcia e Vincezo Monaco <br>
 Diagramas de LP: Classe, Casos de Uso e Atividades Do jogo das musicas: Glimpse of us e Só por uma noite<br>
+
 
 <H1>Diagrama de Casos De Usos:<br>
 
