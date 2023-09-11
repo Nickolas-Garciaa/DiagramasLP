@@ -15,4 +15,4 @@ Diagramas de LP: Classe, Casos de Uso e Atividades Do jogo das musicas: Glimpse 
 
 <h1>Diagrama de Classe: <br>
 
-![lpclasse](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/433a9c90-7781-4695-967a-a9a978bf52e1)
+![Diagrama De Classe LP](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/a9177fe4-eac6-4732-93aa-2f6145cf0160)
