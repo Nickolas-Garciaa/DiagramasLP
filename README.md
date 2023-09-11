@@ -4,9 +4,10 @@ Diagramas de LP: Classe, Casos de Uso e Atividades Do jogo das musicas: Glimpse 
 
 
 <H1>Diagrama de Casos De Usos:<br>
+  
+![Diagrama de Casos de uso LP](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/be98f980-5fe9-4090-9f94-7943efef4a11)
 
 
-![Diagrama de Casos de uso LP](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/fe1b9cfb-8fce-4293-a66c-377468615d97)
 
 <br>
 <h1>Documentação:</h1><br>
