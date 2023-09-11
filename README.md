@@ -16,3 +16,9 @@ Diagramas de LP: Classe, Casos de Uso e Atividades Do jogo das musicas: Glimpse 
 <h1>Diagrama de Classe: <br>
 
 ![Diagrama De Classe LP](https://github.com/Nickolas-Garciaa/DiagramasLP/assets/128262640/a9177fe4-eac6-4732-93aa-2f6145cf0160)
+
+<Br>
+
+<h1>Explicação:</h1> <br>
+
+<h2>Esse diagrama de classe mostra a expliação do nosso jogo, como o jogador possui o jogo e os objetvos das fases vem com a consequencia de iniciar, e os inimigos que matam e perseguem o jogador.</h2>
