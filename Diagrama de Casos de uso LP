@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T00:45:03.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Q_kjX9PIKUUoDqi2cLAM" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T01:04:12.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GDIOkLvMLnVAPV6xbE8i" version="21.7.0" type="github">
   <diagram name="Página-1" id="Nkgpa2HyM1c4vvCeyDwx">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,22 +23,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-9" value="Iniciar jogo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" width="140" height="70" as="geometry" />
+          <mxGeometry x="470" y="10" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-14" value="mover&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="160" width="110" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-16" value="gerar inimigos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="210" width="110" height="60" as="geometry" />
+          <mxGeometry x="580" y="260" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-17" value="encotrar sua ex&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="330" width="110" height="60" as="geometry" />
+          <mxGeometry x="600" y="360" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-19" value="queda" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="354" width="110" height="60" as="geometry" />
+          <mxGeometry x="450" y="370" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-20" value="ataque inimigo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="370" width="110" height="60" as="geometry" />
+          <mxGeometry x="190" y="354" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leuzc_pffLKiUJuKpG1i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-21" target="Gdjx7OXCP4QOKajzCwrP-22">
           <mxGeometry relative="1" as="geometry" />
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-38" value="gerar o cenario" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="90" width="110" height="60" as="geometry" />
+          <mxGeometry x="630" y="190" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gdjx7OXCP4QOKajzCwrP-40" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Gdjx7OXCP4QOKajzCwrP-38" target="Gdjx7OXCP4QOKajzCwrP-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -216,25 +216,22 @@
             <mxPoint x="905" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leuzc_pffLKiUJuKpG1i-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-38" target="Gdjx7OXCP4QOKajzCwrP-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="644" y="263" as="sourcePoint" />
-            <mxPoint x="920" y="336" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="leuzc_pffLKiUJuKpG1i-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-9" target="Gdjx7OXCP4QOKajzCwrP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="343" as="sourcePoint" />
             <mxPoint x="20" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leuzc_pffLKiUJuKpG1i-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-14" target="Gdjx7OXCP4QOKajzCwrP-1">
+        <mxCell id="leuzc_pffLKiUJuKpG1i-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-9" target="Gdjx7OXCP4QOKajzCwrP-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="423" y="75" as="sourcePoint" />
-            <mxPoint x="100" y="338" as="targetPoint" />
+            <mxPoint x="599.8883543005657" y="40.00160283777631" as="sourcePoint" />
+            <mxPoint x="940" y="285.41721518987333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leuzc_pffLKiUJuKpG1i-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Gdjx7OXCP4QOKajzCwrP-38" target="Gdjx7OXCP4QOKajzCwrP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="84" as="sourcePoint" />
+            <mxPoint x="920" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
